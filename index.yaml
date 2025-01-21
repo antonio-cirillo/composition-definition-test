@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cd-test:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2025-01-21T15:14:31.127228+01:00"
+    description: A Helm chart for Composition Definition test
+    digest: 0478d9c2c4bd34d8eec030a4dad1d34ee79d25ae36ed0781de16fb30c62361f7
+    name: cd-test
+    type: application
+    urls:
+    - https://antonio-cirillo.github.io/composition-definition-test/cd-test-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-01-21T15:14:31.12663+01:00"
